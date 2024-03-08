@@ -37,6 +37,6 @@ To run the SwipeNews app locally, follow these steps:
 3. Install dependencies:
 
 ## Screenshot
-Screenshot 2024-03-08 223748.png
+[Screenshot 2024-03-08 223748.png](https://github.com/snehal224/liquide_hackathon/blob/746db18af457656de4985ec82a7e384e1335e583/Screenshot%202024-03-08%20223748.png)https://github.com/snehal224/liquide_hackathon/blob/746db18af457656de4985ec82a7e384e1335e583/Screenshot%202024-03-08%20223748.png
 
 
