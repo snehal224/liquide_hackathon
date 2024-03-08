@@ -1,11 +1,39 @@
-# Sample Snack app
+# SwipeNews
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+SwipeNews is an engaging mobile/web application inspired by the essence of "Inshorts" with a swipe-up feature to navigate through news items. It offers a seamless browsing experience through a curated list of 10 diverse news stories covering various topics.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Key Features
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+### Swipe-Up Functionality
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+- Browse through news items by simply swiping up, providing a smooth and intuitive user experience similar to the Inshorts app.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+### Diverse News Collection
+
+- Curated list of 10 pre-selected news stories covering a wide range of topics, ensuring users get a comprehensive view of current events and trends.
+
+### End-of-List Notification
+
+- Innovative notification to inform users when they've reached the end of the news list, enhancing user experience and engagement.
+
+## Technologies Used
+
+- React Native (for mobile app) / React (for web app)
+- React Native Snap Carousel (for carousel/swiping functionality)
+- React Native Swipe Gestures (for swipe gestures)
+- JavaScript (for logic and functionality)
+- CSS (for styling)
+
+## Installation
+
+To run the SwipeNews app locally, follow these steps:
+
+1. Clone the repository:
+
+
+2. Navigate to the project directory:
+
+
+3. Install dependencies:
+
+
